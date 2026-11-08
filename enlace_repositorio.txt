@@ -1,0 +1,5 @@
+Repositorio GitHub/GitLab del proyecto SoftCafé
+
+URL: PENDIENTE_DE_CREAR_Y_PUBLICAR
+
+Después de crear el repositorio remoto y ejecutar el primer `git push`, reemplace esta línea por la URL real del repositorio público. No se incluye una URL inventada para evitar entregar un enlace que no corresponda al código.
